@@ -1,0 +1,12 @@
+.resume-btn{
+background:#4CAF50;
+color:white;
+padding:12px 25px;
+border-radius:8px;
+text-decoration:none;
+font-weight:bold;
+}
+
+.resume-btn:hover{
+background:#2e7d32;
+}
