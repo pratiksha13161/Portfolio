@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkportfolio=globalThis.webpackChunkportfolio||[]).push([[793],{793(i,n,o){o.r(n),o.d(n,{default:()=>l});o(43);var e=o(579);const l=function(){return(0,e.jsxs)("section",{id:"contact",children:[(0,e.jsx)("h2",{children:"Contact"}),(0,e.jsx)("p",{children:"Email: example@email.com"}),(0,e.jsx)("p",{children:"LinkedIn: linkedin.com/in/yourprofile"})]})}}}]);
+//# sourceMappingURL=793.8c9ab0db.chunk.js.map

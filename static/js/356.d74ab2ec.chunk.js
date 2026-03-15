@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkportfolio=globalThis.webpackChunkportfolio||[]).push([[356],{356(e,a,i){i.r(a),i.d(a,{default:()=>s});i(43);var o=i(579);const s=function(){return(0,o.jsxs)("section",{id:"about",children:[(0,o.jsx)("h2",{children:"About Me"}),(0,o.jsx)("p",{children:"I am a passionate web developer skilled in React, JavaScript, HTML and CSS."})]})}}}]);
+//# sourceMappingURL=356.d74ab2ec.chunk.js.map

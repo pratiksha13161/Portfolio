@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkportfolio=globalThis.webpackChunkportfolio||[]).push([[362],{362(e,s,o){o.r(s),o.d(s,{default:()=>l});o(43);var r=o(579);const l=function(){return(0,r.jsxs)("section",{id:"resume",children:[(0,r.jsx)("h2",{children:"My Resume"}),(0,r.jsx)("p",{children:"Download my resume to learn more about my skills, projects and experience."}),(0,r.jsx)("a",{href:"/Pratiksha_Resume.pdf",download:!0,className:"resume-btn",children:"Download Resume"})]})}}}]);
+//# sourceMappingURL=362.df2351c7.chunk.js.map

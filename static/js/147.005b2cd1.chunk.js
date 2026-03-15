@@ -1,0 +1,2 @@
+"use strict";(globalThis.webpackChunkportfolio=globalThis.webpackChunkportfolio||[]).push([[147],{147(l,i,s){s.r(i),s.d(i,{default:()=>e});s(43);var c=s(579);const e=function(){return(0,c.jsxs)("section",{id:"skills",children:[(0,c.jsx)("h2",{children:"Skills"}),(0,c.jsxs)("ul",{className:"skills",children:[(0,c.jsx)("li",{children:"HTML"}),(0,c.jsx)("li",{children:"CSS"}),(0,c.jsx)("li",{children:"JavaScript"}),(0,c.jsx)("li",{children:"React"}),(0,c.jsx)("li",{children:"Git"})]})]})}}}]);
+//# sourceMappingURL=147.005b2cd1.chunk.js.map
